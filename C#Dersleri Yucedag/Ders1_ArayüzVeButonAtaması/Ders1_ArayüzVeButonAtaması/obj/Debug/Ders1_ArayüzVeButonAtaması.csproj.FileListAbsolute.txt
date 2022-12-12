@@ -9,3 +9,15 @@ C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_Ara
 C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.csproj.CoreCompileInputs.cache
 C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.exe
 C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\bin\Debug\Ders1_ArayüzVeButonAtaması.exe.config
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\bin\Debug\Ders1_ArayüzVeButonAtaması.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\bin\Debug\Ders1_ArayüzVeButonAtaması.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.csproj.AssemblyReference.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.Form1.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.Properties.Resources.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.csproj.GenerateResource.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.Form2.resources
