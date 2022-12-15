@@ -22,3 +22,5 @@ C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri 
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.pdb
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.Form2.resources
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.Form3.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.Form4.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders1_ArayüzVeButonAtaması\Ders1_ArayüzVeButonAtaması\obj\Debug\Ders1_ArayüzVeButonAtaması.Form5.resources
