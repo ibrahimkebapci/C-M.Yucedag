@@ -1,0 +1,11 @@
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\bin\Debug\Ders1_FinalProjesi.exe.config
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\bin\Debug\Ders1_FinalProjesi.exe
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\bin\Debug\Ders1_FinalProjesi.pdb
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\obj\Debug\Ders1_FinalProjesi.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\obj\Debug\Ders1_FinalProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\obj\Debug\Ders1_FinalProjesi.Form1.resources
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\obj\Debug\Ders1_FinalProjesi.Properties.Resources.resources
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\obj\Debug\Ders1_FinalProjesi.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\obj\Debug\Ders1_FinalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\obj\Debug\Ders1_FinalProjesi.exe
+C:\Users\ibrah\Desktop\C#Dersleri Yucedag\Ders1_FinalProjesi\Ders1_FinalProjesi\obj\Debug\Ders1_FinalProjesi.pdb
