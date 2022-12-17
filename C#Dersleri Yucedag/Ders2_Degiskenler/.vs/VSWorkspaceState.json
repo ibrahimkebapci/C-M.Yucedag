@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Degiskenler",
+    "\\Degiskenler\\Degiskenler"
   ],
+  "SelectedNode": "\\Degiskenler\\Degiskenler\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
