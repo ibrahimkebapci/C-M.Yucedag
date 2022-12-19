@@ -16,7 +16,7 @@ namespace Degiskenler
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Int());
+            Application.Run(new Form4());
         }
     }
 }

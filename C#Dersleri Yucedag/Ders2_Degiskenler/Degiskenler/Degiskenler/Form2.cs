@@ -23,8 +23,8 @@ namespace Degiskenler
         private void button1_Click(object sender, EventArgs e)
         {
             
-            textBox4.Text =  (IlkKenar * IkinciKenar).ToString();
-            textBox7.Text
+            
+            
         }
 
         private void textBox4_TextChanged(object sender, EventArgs e)
@@ -41,11 +41,7 @@ namespace Degiskenler
 
         private void button3_Click(object sender, EventArgs e)
         {
-            int SinavNot1,SinavNot2,SinavNot3;
-            SinavNot1 = textBox1.Text;
-            SinavNot2 = textBox2.Text;
-            SinavNot3 = textBox3.Text;
-            textBox8 = ((SinavNot1 + SinavNot2 + SinavNot3) / 3);
+           
         }
     }
 }
