@@ -28,7 +28,7 @@ namespace Degiskenler
             KDV = Convert.ToInt16(textBox5.Text);
             Kargo = Convert.ToInt16(textBox4.Text);
             toplam = (KDV * 18 / 10) + Ucret + Kargo;
-            listBox1.Items.Add = (ad + " " + soyAd + "Toplam Fiyat: " + toplam);
+            //listBox1.Items.Add = (ad + " " + soyAd + "Toplam Fiyat: " + toplam);
         }
     }
 }

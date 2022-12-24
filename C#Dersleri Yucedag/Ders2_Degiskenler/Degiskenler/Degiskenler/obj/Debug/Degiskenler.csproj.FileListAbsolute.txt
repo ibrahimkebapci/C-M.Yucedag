@@ -14,3 +14,4 @@ C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri 
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders2_Degiskenler\Degiskenler\Degiskenler\obj\Debug\Degiskenler.Form4.resources
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders2_Degiskenler\Degiskenler\Degiskenler\obj\Debug\Degiskenler.Form5.resources
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders2_Degiskenler\Degiskenler\Degiskenler\obj\Debug\Degiskenler.Form6.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders2_Degiskenler\Degiskenler\Degiskenler\obj\Debug\Degiskenler.Form7.resources
