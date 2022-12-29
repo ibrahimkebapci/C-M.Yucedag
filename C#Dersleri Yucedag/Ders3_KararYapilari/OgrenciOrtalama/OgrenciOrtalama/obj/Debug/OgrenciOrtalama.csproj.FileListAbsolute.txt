@@ -1,0 +1,11 @@
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\bin\Debug\OgrenciOrtalama.exe.config
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\bin\Debug\OgrenciOrtalama.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\bin\Debug\OgrenciOrtalama.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.csproj.AssemblyReference.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.Form1.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.Properties.Resources.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.csproj.GenerateResource.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.pdb
