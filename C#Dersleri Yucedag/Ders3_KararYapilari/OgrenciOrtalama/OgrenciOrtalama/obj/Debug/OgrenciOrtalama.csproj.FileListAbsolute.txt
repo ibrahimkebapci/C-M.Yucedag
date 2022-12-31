@@ -10,3 +10,4 @@ C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri 
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.exe
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.pdb
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.Form2.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_KararYapilari\OgrenciOrtalama\OgrenciOrtalama\obj\Debug\OgrenciOrtalama.Form3.resources
