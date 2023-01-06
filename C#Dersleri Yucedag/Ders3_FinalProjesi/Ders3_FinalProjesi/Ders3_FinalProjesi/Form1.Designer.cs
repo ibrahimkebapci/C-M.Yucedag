@@ -50,7 +50,7 @@
             // richTextBox1
             // 
             this.richTextBox1.Location = new System.Drawing.Point(20, 19);
-            this.richTextBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.richTextBox1.Margin = new System.Windows.Forms.Padding(5);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(530, 279);
             this.richTextBox1.TabIndex = 0;
@@ -60,7 +60,7 @@
             // ButonA
             // 
             this.ButonA.Location = new System.Drawing.Point(124, 316);
-            this.ButonA.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.ButonA.Margin = new System.Windows.Forms.Padding(5);
             this.ButonA.Name = "ButonA";
             this.ButonA.Size = new System.Drawing.Size(181, 68);
             this.ButonA.TabIndex = 1;
@@ -156,10 +156,11 @@
             // 
             this.ButonSonuc.Location = new System.Drawing.Point(692, 201);
             this.ButonSonuc.Name = "ButonSonuc";
-            this.ButonSonuc.Size = new System.Drawing.Size(135, 61);
+            this.ButonSonuc.Size = new System.Drawing.Size(157, 61);
             this.ButonSonuc.TabIndex = 11;
-            this.ButonSonuc.Text = "button5";
+            this.ButonSonuc.Text = "SonrakiSoru";
             this.ButonSonuc.UseVisualStyleBackColor = true;
+            this.ButonSonuc.Click += new System.EventHandler(this.ButonSonuc_Click);
             // 
             // pictureBox1
             // 
@@ -201,7 +202,7 @@
             this.Controls.Add(this.ButonA);
             this.Controls.Add(this.richTextBox1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

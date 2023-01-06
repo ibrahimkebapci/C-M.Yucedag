@@ -20,14 +20,48 @@ namespace Ders3_FinalProjesi
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
-            LblSoruNo.Text="1";
             
-            richTextBox1.Text = "Normal boyutlarda bir uçak kaç müşteri kapasitesine sahiptir.";
+
+        }
+
+        private void ButonSonuc_Click(object sender, EventArgs e)
+        {
+            int SoruNo = 0;
+            SoruNo = Convert.ToInt16(LblSoruNo);
+
+            if (SoruNo == 1)
+            {
+                richTextBox1.Text = "Normal boyutlarda bir uçak kaç müşteri kapasitesine sahiptir?";
+                ButonA.Text = "10";
+                ButonB.Text = "20";
+                ButonC.Text = "30";
+                ButonD.Text = "40";
+                SoruNo++;
+            }
+            if(SoruNo == 2)
+            {
+                richTextBox1.Text = "Türkiyenin en yüksek dağı hangisidir?";
+                ButonA.Text = "Erciyes";
+                ButonB.Text = "Ağrı";
+                ButonC.Text = "Uludag";
+                ButonD.Text = "Gabar";
+                SoruNo++;
+            }
+            if(SoruNo == 3)
+            {
+                richTextBox1.Text = "Kükürt içerisine ne kadarad karbon bulunmaktadır?";
+                ButonA.Text = "2";
+                ButonB.Text = "8";
+                ButonC.Text = "10";
+                ButonD.Text = "16";
+                SoruNo++;
+            }
+            SoruNo++;
 
         }
     }
