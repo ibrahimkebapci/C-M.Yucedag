@@ -41,10 +41,10 @@
             this.LblDogru = new System.Windows.Forms.Label();
             this.LblSoruNo = new System.Windows.Forms.Label();
             this.ButonSonuc = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.Yesil = new System.Windows.Forms.PictureBox();
+            this.Kirmizi = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.Yesil)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Kirmizi)).BeginInit();
             this.SuspendLayout();
             // 
             // richTextBox1
@@ -77,6 +77,7 @@
             this.ButonB.TabIndex = 2;
             this.ButonB.Text = "B";
             this.ButonB.UseVisualStyleBackColor = true;
+            this.ButonB.Click += new System.EventHandler(this.ButonB_Click);
             // 
             // ButonC
             // 
@@ -87,6 +88,7 @@
             this.ButonC.TabIndex = 3;
             this.ButonC.Text = "C";
             this.ButonC.UseVisualStyleBackColor = true;
+            this.ButonC.Click += new System.EventHandler(this.ButonC_Click);
             // 
             // ButonD
             // 
@@ -162,33 +164,35 @@
             this.ButonSonuc.UseVisualStyleBackColor = true;
             this.ButonSonuc.Click += new System.EventHandler(this.ButonSonuc_Click);
             // 
-            // pictureBox1
+            // Yesil
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(593, 331);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(163, 111);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 12;
-            this.pictureBox1.TabStop = false;
+            this.Yesil.Image = ((System.Drawing.Image)(resources.GetObject("Yesil.Image")));
+            this.Yesil.Location = new System.Drawing.Point(593, 331);
+            this.Yesil.Name = "Yesil";
+            this.Yesil.Size = new System.Drawing.Size(163, 111);
+            this.Yesil.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Yesil.TabIndex = 12;
+            this.Yesil.TabStop = false;
+            this.Yesil.Visible = false;
             // 
-            // pictureBox2
+            // Kirmizi
             // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(762, 331);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(163, 111);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 13;
-            this.pictureBox2.TabStop = false;
+            this.Kirmizi.Image = ((System.Drawing.Image)(resources.GetObject("Kirmizi.Image")));
+            this.Kirmizi.Location = new System.Drawing.Point(762, 331);
+            this.Kirmizi.Name = "Kirmizi";
+            this.Kirmizi.Size = new System.Drawing.Size(163, 111);
+            this.Kirmizi.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Kirmizi.TabIndex = 13;
+            this.Kirmizi.TabStop = false;
+            this.Kirmizi.Visible = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(962, 495);
-            this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.Kirmizi);
+            this.Controls.Add(this.Yesil);
             this.Controls.Add(this.ButonSonuc);
             this.Controls.Add(this.LblYanlis);
             this.Controls.Add(this.LblDogru);
@@ -205,8 +209,8 @@
             this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Yesil)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Kirmizi)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -226,8 +230,8 @@
         private System.Windows.Forms.Label LblDogru;
         private System.Windows.Forms.Label LblSoruNo;
         private System.Windows.Forms.Button ButonSonuc;
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox Yesil;
+        private System.Windows.Forms.PictureBox Kirmizi;
     }
 }
 

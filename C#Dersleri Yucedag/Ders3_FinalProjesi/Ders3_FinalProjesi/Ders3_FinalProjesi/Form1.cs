@@ -13,6 +13,9 @@ namespace Ders3_FinalProjesi
     public partial class Form1 : Form
     {
         public int Sorusayisi;
+        public int SoruNo = 1;
+        public int DogruSayisi = 0;
+        public int YanlisSayi = 0;
         public Form1()
         {
             InitializeComponent();
@@ -20,7 +23,23 @@ namespace Ders3_FinalProjesi
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            int DogruSay;
+            if(SoruNo==1)
+            {
+                DogruSay = Convert.ToInt16(LblDogru.Text);
+                Yesil.Visible=true;
+            }
+            if (SoruNo == 2)
+            {
+                DogruSay = Convert.ToInt16(LblDogru.Text);
+                Kirmizi.Visible=true;
+            }
+            if (SoruNo == 3)
+            {
+                DogruSay = Convert.ToInt16(LblDogru.Text);
+                Kirmizi.Visible = true;
+            }
+            SoruNo++;
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
@@ -31,7 +50,7 @@ namespace Ders3_FinalProjesi
 
         private void ButonSonuc_Click(object sender, EventArgs e)
         {
-            int SoruNo = 0;
+         ;
             SoruNo = Convert.ToInt16(LblSoruNo);
 
             if (SoruNo == 1)
@@ -41,7 +60,6 @@ namespace Ders3_FinalProjesi
                 ButonB.Text = "20";
                 ButonC.Text = "30";
                 ButonD.Text = "40";
-                SoruNo++;
             }
             if(SoruNo == 2)
             {
@@ -50,7 +68,7 @@ namespace Ders3_FinalProjesi
                 ButonB.Text = "Ağrı";
                 ButonC.Text = "Uludag";
                 ButonD.Text = "Gabar";
-                SoruNo++;
+                
             }
             if(SoruNo == 3)
             {
@@ -59,10 +77,40 @@ namespace Ders3_FinalProjesi
                 ButonB.Text = "8";
                 ButonC.Text = "10";
                 ButonD.Text = "16";
-                SoruNo++;
             }
-            SoruNo++;
+        }
 
+        private void ButonB_Click(object sender, EventArgs e)
+        {
+            int DogruSay;
+            if (SoruNo == 2)
+            {
+                DogruSay = Convert.ToInt16(LblDogru.Text);
+                Yesil.Visible = true;
+            }
+            else
+            {
+                Kirmizi.Visible = true;    
+            }    
+            
+
+            SoruNo++;
+        }
+
+        private void ButonC_Click(object sender, EventArgs e)
+        {
+            int DogruSay;
+            if (SoruNo == 3)
+            {
+                DogruSay = Convert.ToInt16(LblDogru.Text);
+                Yesil.Visible = true;
+            }
+            else
+            {
+                Kirmizi.Visible = true; 
+            }
+
+            SoruNo++;
         }
     }
 }
