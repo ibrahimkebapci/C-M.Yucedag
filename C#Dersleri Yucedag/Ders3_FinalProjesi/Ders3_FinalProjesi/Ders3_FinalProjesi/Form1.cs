@@ -12,8 +12,7 @@ namespace Ders3_FinalProjesi
 {
     public partial class Form1 : Form
     {
-        public int Sorusayisi;
-        public int SoruNo = 1;
+        public int SoruNo = 0;
         public int DogruSayisi = 0;
         public int YanlisSayi = 0;
         public Form1()
@@ -23,37 +22,33 @@ namespace Ders3_FinalProjesi
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int DogruSay;
             if(SoruNo==1)
             {
-                DogruSay = Convert.ToInt16(LblDogru.Text);
+                DogruSayisi = Convert.ToInt16(LblDogru.Text);
                 Yesil.Visible=true;
+                DogruSayisi++;
+                LblDogru.Text = DogruSayisi.ToString();
+                
             }
-            if (SoruNo == 2)
+          else
             {
-                DogruSay = Convert.ToInt16(LblDogru.Text);
-                Kirmizi.Visible=true;
-            }
-            if (SoruNo == 3)
-            {
-                DogruSay = Convert.ToInt16(LblDogru.Text);
                 Kirmizi.Visible = true;
+                YanlisSayi++;
+                LblYanlis.Text = YanlisSayi.ToString();
+
             }
-            SoruNo++;
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
+            
             
 
         }
 
         private void ButonSonuc_Click(object sender, EventArgs e)
         {
-         ;
-            SoruNo = Convert.ToInt16(LblSoruNo);
-
-            if (SoruNo == 1)
+            if (SoruNo == 0)
             {
                 richTextBox1.Text = "Normal boyutlarda bir uçak kaç müşteri kapasitesine sahiptir?";
                 ButonA.Text = "10";
@@ -61,23 +56,29 @@ namespace Ders3_FinalProjesi
                 ButonC.Text = "30";
                 ButonD.Text = "40";
             }
-            if(SoruNo == 2)
+            if (SoruNo == 1)
             {
                 richTextBox1.Text = "Türkiyenin en yüksek dağı hangisidir?";
                 ButonA.Text = "Erciyes";
                 ButonB.Text = "Ağrı";
                 ButonC.Text = "Uludag";
                 ButonD.Text = "Gabar";
-                
+
             }
-            if(SoruNo == 3)
+            if (SoruNo == 2)
             {
-                richTextBox1.Text = "Kükürt içerisine ne kadarad karbon bulunmaktadır?";
+                richTextBox1.Text = "Kükürt içerisine ne kaç tane karbon atomu bulunmaktadır?";
                 ButonA.Text = "2";
                 ButonB.Text = "8";
                 ButonC.Text = "10";
                 ButonD.Text = "16";
             }
+            
+            SoruNo++;
+            LblSoruNo.Text = SoruNo.ToString();
+            Kirmizi.Visible = false;
+            Yesil.Visible = false;
+            
         }
 
         private void ButonB_Click(object sender, EventArgs e)
@@ -87,14 +88,17 @@ namespace Ders3_FinalProjesi
             {
                 DogruSay = Convert.ToInt16(LblDogru.Text);
                 Yesil.Visible = true;
+                DogruSayisi++;
+                LblDogru.Text = DogruSayisi.ToString();
             }
             else
             {
-                Kirmizi.Visible = true;    
-            }    
-            
+                Kirmizi.Visible = true;
+                YanlisSayi++;
+                LblYanlis.Text = YanlisSayi.ToString();
+            }
 
-            SoruNo++;
+
         }
 
         private void ButonC_Click(object sender, EventArgs e)
@@ -104,13 +108,28 @@ namespace Ders3_FinalProjesi
             {
                 DogruSay = Convert.ToInt16(LblDogru.Text);
                 Yesil.Visible = true;
+                DogruSayisi++;
+                LblDogru.Text = DogruSayisi.ToString();
             }
             else
             {
-                Kirmizi.Visible = true; 
+                Kirmizi.Visible = true;
+                YanlisSayi++;
+                LblYanlis.Text = YanlisSayi.ToString();
             }
 
-            SoruNo++;
+        }
+
+        private void LblYanlis_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ButonD_Click(object sender, EventArgs e)
+        {
+            Kirmizi.Visible = true;
+            YanlisSayi++;
+            LblYanlis.Text = YanlisSayi.ToString();
         }
     }
 }

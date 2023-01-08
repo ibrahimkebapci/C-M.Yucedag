@@ -99,6 +99,7 @@
             this.ButonD.TabIndex = 4;
             this.ButonD.Text = "D";
             this.ButonD.UseVisualStyleBackColor = true;
+            this.ButonD.Click += new System.EventHandler(this.ButonD_Click);
             // 
             // label1
             // 
@@ -132,27 +133,28 @@
             this.LblYanlis.AutoSize = true;
             this.LblYanlis.Location = new System.Drawing.Point(763, 140);
             this.LblYanlis.Name = "LblYanlis";
-            this.LblYanlis.Size = new System.Drawing.Size(70, 25);
+            this.LblYanlis.Size = new System.Drawing.Size(24, 25);
             this.LblYanlis.TabIndex = 10;
-            this.LblYanlis.Text = "label4";
+            this.LblYanlis.Text = "0";
+            this.LblYanlis.Click += new System.EventHandler(this.LblYanlis_Click);
             // 
             // LblDogru
             // 
             this.LblDogru.AutoSize = true;
             this.LblDogru.Location = new System.Drawing.Point(763, 96);
             this.LblDogru.Name = "LblDogru";
-            this.LblDogru.Size = new System.Drawing.Size(70, 25);
+            this.LblDogru.Size = new System.Drawing.Size(24, 25);
             this.LblDogru.TabIndex = 9;
-            this.LblDogru.Text = "label5";
+            this.LblDogru.Text = "0";
             // 
             // LblSoruNo
             // 
             this.LblSoruNo.AutoSize = true;
             this.LblSoruNo.Location = new System.Drawing.Point(763, 51);
             this.LblSoruNo.Name = "LblSoruNo";
-            this.LblSoruNo.Size = new System.Drawing.Size(70, 25);
+            this.LblSoruNo.Size = new System.Drawing.Size(24, 25);
             this.LblSoruNo.TabIndex = 8;
-            this.LblSoruNo.Text = "label6";
+            this.LblSoruNo.Text = "1";
             // 
             // ButonSonuc
             // 

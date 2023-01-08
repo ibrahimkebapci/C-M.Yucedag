@@ -1,0 +1,11 @@
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\bin\Debug\Ders3_FinalProjesi.exe.config
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\bin\Debug\Ders3_FinalProjesi.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\bin\Debug\Ders3_FinalProjesi.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\obj\Debug\Ders3_FinalProjesi.csproj.AssemblyReference.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\obj\Debug\Ders3_FinalProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\obj\Debug\Ders3_FinalProjesi.Form1.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\obj\Debug\Ders3_FinalProjesi.Properties.Resources.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\obj\Debug\Ders3_FinalProjesi.csproj.GenerateResource.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\obj\Debug\Ders3_FinalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\obj\Debug\Ders3_FinalProjesi.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders3_FinalProjesi\Ders3_FinalProjesi\Ders3_FinalProjesi\obj\Debug\Ders3_FinalProjesi.pdb
