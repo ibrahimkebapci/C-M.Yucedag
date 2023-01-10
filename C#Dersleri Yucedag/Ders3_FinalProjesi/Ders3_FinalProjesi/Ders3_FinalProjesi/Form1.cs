@@ -37,6 +37,10 @@ namespace Ders3_FinalProjesi
                 LblYanlis.Text = YanlisSayi.ToString();
 
             }
+            ButonA.Enabled = false;
+            ButonB.Enabled = false;
+            ButonC.Enabled = false;
+            ButonD.Enabled = false;
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
@@ -78,7 +82,11 @@ namespace Ders3_FinalProjesi
             LblSoruNo.Text = SoruNo.ToString();
             Kirmizi.Visible = false;
             Yesil.Visible = false;
-            
+
+            ButonA.Enabled = true;
+            ButonB.Enabled = true;
+            ButonC.Enabled = true;
+            ButonD.Enabled = true;
         }
 
         private void ButonB_Click(object sender, EventArgs e)
@@ -98,7 +106,10 @@ namespace Ders3_FinalProjesi
                 LblYanlis.Text = YanlisSayi.ToString();
             }
 
-
+            ButonA.Enabled = false;
+            ButonB.Enabled = false;
+            ButonC.Enabled = false;
+            ButonD.Enabled = false;
         }
 
         private void ButonC_Click(object sender, EventArgs e)
@@ -110,14 +121,20 @@ namespace Ders3_FinalProjesi
                 Yesil.Visible = true;
                 DogruSayisi++;
                 LblDogru.Text = DogruSayisi.ToString();
+                MessageBox.Show("Dogru: " + LblDogru.Text + "\n" + "Yanlis " + LblYanlis.Text);
             }
             else
             {
                 Kirmizi.Visible = true;
                 YanlisSayi++;
                 LblYanlis.Text = YanlisSayi.ToString();
-            }
+                MessageBox.Show("Dogru: " + LblDogru.Text + "\n" + "Yanlis " + LblYanlis.Text);
 
+            }
+            ButonA.Enabled = false;
+            ButonB.Enabled = false;
+            ButonC.Enabled = false;
+            ButonD.Enabled = false;
         }
 
         private void LblYanlis_Click(object sender, EventArgs e)
@@ -130,6 +147,10 @@ namespace Ders3_FinalProjesi
             Kirmizi.Visible = true;
             YanlisSayi++;
             LblYanlis.Text = YanlisSayi.ToString();
+            ButonA.Enabled = false;
+            ButonB.Enabled = false;
+            ButonC.Enabled = false;
+            ButonD.Enabled = false;
         }
     }
 }
