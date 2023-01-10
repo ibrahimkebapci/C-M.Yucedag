@@ -1,0 +1,11 @@
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\bin\Debug\Ders4_Donguler.exe.config
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\bin\Debug\Ders4_Donguler.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\bin\Debug\Ders4_Donguler.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.csproj.AssemblyReference.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.Form1.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.Properties.Resources.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.csproj.GenerateResource.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.pdb
