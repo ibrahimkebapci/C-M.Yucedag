@@ -10,30 +10,25 @@ using System.Windows.Forms;
 
 namespace Ders4_Donguler
 {
-    public partial class Form4 : Form
+    public partial class Form5 : Form
     {
-        public Form4()
+        public Form5()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
             int i = 0;
-            while(i< 10)
+            do
             {
-                listBox1.Items.Add("Selam");
-                listBox2.Items.Add(i + ".Dostum");
+                listBox1.Items.Add("Selam Dunya");
                 i++;
             }
-            int j = 1;
-            int Sayi;
-       
-
+            while (i>21);
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void Form5_Load(object sender, EventArgs e)
         {
 
         }
