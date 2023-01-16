@@ -14,3 +14,4 @@ C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri 
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.Form4.resources
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.Form5.resources
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.Form6.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_Donguler\Ders4_Donguler\obj\Debug\Ders4_Donguler.Form7.resources

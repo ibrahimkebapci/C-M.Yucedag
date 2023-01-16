@@ -16,7 +16,7 @@ namespace Ders4_Donguler
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form6());
+            Application.Run(new Form7());
         }
     }
 }
