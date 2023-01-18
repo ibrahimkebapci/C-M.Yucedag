@@ -1,0 +1,11 @@
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\bin\Debug\Ders4_FinalProjesi.exe.config
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\bin\Debug\Ders4_FinalProjesi.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\bin\Debug\Ders4_FinalProjesi.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\obj\Debug\Ders4_FinalProjesi.csproj.AssemblyReference.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\obj\Debug\Ders4_FinalProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\obj\Debug\Ders4_FinalProjesi.Form1.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\obj\Debug\Ders4_FinalProjesi.Properties.Resources.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\obj\Debug\Ders4_FinalProjesi.csproj.GenerateResource.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\obj\Debug\Ders4_FinalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\obj\Debug\Ders4_FinalProjesi.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders4_Donguler\Ders4_FinalProjesi\Ders4_FinalProjesi\obj\Debug\Ders4_FinalProjesi.pdb
