@@ -9,3 +9,4 @@ C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri 
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders5_Diziler\Ders5_Diziler\Ders5_Diziler\obj\Debug\Ders5_Diziler.csproj.CoreCompileInputs.cache
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders5_Diziler\Ders5_Diziler\Ders5_Diziler\obj\Debug\Ders5_Diziler.exe
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders5_Diziler\Ders5_Diziler\Ders5_Diziler\obj\Debug\Ders5_Diziler.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders5_Diziler\Ders5_Diziler\Ders5_Diziler\obj\Debug\Ders5_Diziler.Form2.resources
