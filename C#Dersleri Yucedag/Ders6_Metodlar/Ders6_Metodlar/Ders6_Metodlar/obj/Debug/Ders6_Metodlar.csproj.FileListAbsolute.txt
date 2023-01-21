@@ -10,3 +10,4 @@ C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri 
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders6_Metodlar\Ders6_Metodlar\Ders6_Metodlar\obj\Debug\Ders6_Metodlar.exe
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders6_Metodlar\Ders6_Metodlar\Ders6_Metodlar\obj\Debug\Ders6_Metodlar.pdb
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders6_Metodlar\Ders6_Metodlar\Ders6_Metodlar\obj\Debug\Ders6_Metodlar.Form2.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders6_Metodlar\Ders6_Metodlar\Ders6_Metodlar\obj\Debug\Ders6_Metodlar.Form3.resources
