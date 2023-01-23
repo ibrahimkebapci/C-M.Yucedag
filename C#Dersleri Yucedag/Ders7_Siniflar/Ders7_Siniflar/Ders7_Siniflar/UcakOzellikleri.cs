@@ -12,6 +12,18 @@ namespace Ders7_Siniflar
         public string Renk;
         public string Marka;
         public string Fiyat;
+        private string UcakSahibi;
+        private string UcakKazanc;
         
+        public string Kapsulleme1
+        {
+            get{ return UcakSahibi; }
+            set{ UcakSahibi = UcakSahibi+"Balon" ; }
+        }
+        public string Kapsulleme2
+        {
+            get { return UcakKazanc; }
+            set { UcakKazanc = UcakKazanc +"Deneme"; }
+        }
     }
 }
