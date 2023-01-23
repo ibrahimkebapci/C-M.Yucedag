@@ -1,0 +1,12 @@
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\bin\Debug\Ders7_Siniflar.exe.config
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\bin\Debug\Ders7_Siniflar.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\bin\Debug\Ders7_Siniflar.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.csproj.AssemblyReference.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.Form1.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.Properties.Resources.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.csproj.GenerateResource.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.Form2.resources
