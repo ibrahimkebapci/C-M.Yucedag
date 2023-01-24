@@ -24,8 +24,9 @@ namespace Ders7_Siniflar
             Ucak1.YolcuKapasite = 75;
             Ucak1.Renk = "Kirmizi";
             Ucak1.Fiyat = "100.000 TL";
-            Ucak1.Kapsulleme1;
-            Ucak1.Kapsulleme2;
+            Ucak1.Kapsulleme1="Selam";
+            Ucak1.Kapsulleme2="Melam";
+            
 
             pictureBox1.BackColor = Color.Green;
 
@@ -33,6 +34,8 @@ namespace Ders7_Siniflar
             label2.Text = Ucak1.Renk.ToString();
             label3.Text = Ucak1.YolcuKapasite.ToString();
             label4.Text = Ucak1.Fiyat.ToString();
+            label5.Text = Ucak1.Kapsulleme1.ToString();
+            label6.Text = Ucak1.Kapsulleme2.ToString();
 
         }
 
