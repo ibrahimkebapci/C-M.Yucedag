@@ -43,5 +43,53 @@ namespace Ders7_Siniflar
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Random rast = new Random();
+            int S1, S2, S3, S4;
+            S1 = rast.Next(1, 5);
+            S2 = rast.Next(1, 5);
+            S3 = rast.Next(1, 5);
+            S4 = rast.Next(1, 5);
+
+            label7.Text = S1.ToString();
+            label8.Text = S2.ToString();
+            label9.Text = S3.ToString();
+            label10.Text = S4.ToString();
+
+            if(textBox1.Text == label7.Text)
+            {
+                textBox1.BackColor = Color.Green;
+            }
+            else
+            {
+                textBox1.BackColor = Color.Red;
+            }
+            if (textBox2.Text == label8.Text)
+            {
+                textBox2.BackColor = Color.Green;
+            }
+            else
+            {
+                textBox2.BackColor = Color.Red;
+            }
+            if (textBox3.Text == label9.Text)
+            {
+                textBox3.BackColor = Color.Green;
+            }
+            else
+            {
+                textBox3.BackColor = Color.Red;
+            }
+            if (textBox4.Text == label10.Text)
+            {
+                textBox4.BackColor = Color.Green;
+            }
+            else
+            {
+                textBox4.BackColor = Color.Red;
+            }
+        }
     }
 }
