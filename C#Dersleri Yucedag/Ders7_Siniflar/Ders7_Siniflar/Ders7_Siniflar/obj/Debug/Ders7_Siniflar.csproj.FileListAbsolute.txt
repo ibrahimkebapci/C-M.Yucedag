@@ -11,3 +11,5 @@ C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri 
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.pdb
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.Form2.resources
 C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.Form3.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.VeriAl.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders7_Siniflar\Ders7_Siniflar\obj\Debug\Ders7_Siniflar.VeriVer.resources

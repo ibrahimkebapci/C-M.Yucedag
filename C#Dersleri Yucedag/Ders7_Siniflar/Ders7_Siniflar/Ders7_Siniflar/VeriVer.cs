@@ -10,19 +10,22 @@ using System.Windows.Forms;
 
 namespace Ders7_Siniflar
 {
-    public partial class Form3 : Form
+    public partial class VeriVer : Form
     {
-        public Form3()
+        public VeriVer()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-          Form4 dr = new Form4();
-            dr.Show();
+            VeriAl veri= new VeriAl();
+            veri.ad = textBox1.Text;
+            veri.Soyad = textBox2.Text;
+            veri.Yas = Convert.ToInt16(textBox3.Text);
+            veri.Show();
             this.Hide();
-
+          
         }
     }
 }
