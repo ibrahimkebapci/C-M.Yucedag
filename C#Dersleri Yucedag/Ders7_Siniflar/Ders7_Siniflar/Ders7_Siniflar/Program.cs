@@ -16,7 +16,7 @@ namespace Ders7_Siniflar
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new VeriVer());
+            Application.Run(new Form5());
         }
     }
 }
