@@ -1,0 +1,11 @@
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\bin\Debug\Ders8_VeriTabanİSQL.exe.config
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\bin\Debug\Ders8_VeriTabanİSQL.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\bin\Debug\Ders8_VeriTabanİSQL.pdb
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\obj\Debug\Ders8_VeriTabanİSQL.csproj.AssemblyReference.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\obj\Debug\Ders8_VeriTabanİSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\obj\Debug\Ders8_VeriTabanİSQL.Form1.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\obj\Debug\Ders8_VeriTabanİSQL.Properties.Resources.resources
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\obj\Debug\Ders8_VeriTabanİSQL.csproj.GenerateResource.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\obj\Debug\Ders8_VeriTabanİSQL.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\obj\Debug\Ders8_VeriTabanİSQL.exe
+C:\Users\ibrah\UnityProjeleri\Bitkiler-vs-Zombiler-clone\C-M.Yucedag\C#Dersleri Yucedag\Ders7_Siniflar\Ders8_VeriTabanİSQL\Ders8_VeriTabanİSQL\obj\Debug\Ders8_VeriTabanİSQL.pdb
