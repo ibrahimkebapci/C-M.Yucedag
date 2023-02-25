@@ -62,6 +62,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>PersonelVeriTabaniDataSet1.xsd</DependentUpon>
     </Compile>
+    <Compile Include="PersonelVeriTabaniDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PersonelVeriTabaniDataSet2.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -97,6 +102,17 @@
     </None>
     <None Include="PersonelVeriTabaniDataSet1.xss">
       <DependentUpon>PersonelVeriTabaniDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PersonelVeriTabaniDataSet2.xsc">
+      <DependentUpon>PersonelVeriTabaniDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="PersonelVeriTabaniDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PersonelVeriTabaniDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PersonelVeriTabaniDataSet2.xss">
+      <DependentUpon>PersonelVeriTabaniDataSet2.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
