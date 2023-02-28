@@ -18,15 +18,29 @@ namespace Ders8_VeriTabanİSQL
             InitializeComponent();
         }
         SqlConnection Baglanti = new SqlConnection("Data Source=DESKTOP-T2496AJ\\SQLEXPRESS;Initial Catalog=PersonelVeriTabani;Integrated Security=True");
+        
+        public void Temizle()
+        {
+            TxtId.Text = "";
+            TxtAd.Text = "";
+            TxtDurum.Text = "";
+            TxtMeslek.Text = "";
+            TxtSoyad.Text = "";
+            CmbSehir.Text = "";
+            MtxtMaas.Text = "";
+            radioButton1.Checked = false;
+            radioButton2.Checked = false;
+        }
         private void BtnKaydet_Click(object sender, EventArgs e)
         {
             Baglanti.Open();
-            SqlCommand Kaydet = new SqlCommand("insert into Tbl_Personel(PersonelAd,PersonelSoyad,PersonelŞehir,PersonelMaas,PersonelMeslek) values (@p1,@p2,@p3,@p4,@p5)" , Baglanti);
+            SqlCommand Kaydet = new SqlCommand("insert into Tbl_Personel(PersonelAd,PersonelSoyad,PersonelŞehir,PersonelMaas,PersonelMeslek,PersonelDurum) values (@p1,@p2,@p3,@p4,@p5,@p6)" , Baglanti);
             Kaydet.Parameters.AddWithValue("@p1",TxtAd.Text);
             Kaydet.Parameters.AddWithValue("@p2",TxtSoyad.Text);
             Kaydet.Parameters.AddWithValue("@p3",CmbSehir.Text);
-            Kaydet.Parameters.AddWithValue("@p4", MtxtMaas.Text);
-            Kaydet.Parameters.AddWithValue("@p5", TxtMeslek.Text);
+            Kaydet.Parameters.AddWithValue("@p4",MtxtMaas.Text);
+            Kaydet.Parameters.AddWithValue("@p5",TxtMeslek.Text);
+            Kaydet.Parameters.AddWithValue("@p6",TxtDurum.Text);
             Kaydet.ExecuteNonQuery();
             Baglanti.Close();
             MessageBox.Show("Personel Eklendi");
@@ -80,6 +94,19 @@ namespace Ders8_VeriTabanİSQL
 
         }
 
-      
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            TxtDurum.Text = "True";
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            TxtDurum.Text = "False";
+        }
+
+        private void BtnSil_Click(object sender, EventArgs e)
+        {
+            Temizle();
+        }
     }
 }

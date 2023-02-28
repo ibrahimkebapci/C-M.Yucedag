@@ -63,24 +63,25 @@
             this.personelMaasDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.personelDurumDataGridViewCheckBoxColumn = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.personelMeslekDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.tblPersonelBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.personelVeriTabaniDataSet2 = new Ders8_VeriTabanİSQL.PersonelVeriTabaniDataSet2();
             this.tblPersonelBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.personelVeriTabaniDataSet1 = new Ders8_VeriTabanİSQL.PersonelVeriTabaniDataSet1();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.personelVeriTabaniDataSet = new Ders8_VeriTabanİSQL.PersonelVeriTabaniDataSet();
             this.tbl_PersonelTableAdapter = new Ders8_VeriTabanİSQL.PersonelVeriTabaniDataSet1TableAdapters.Tbl_PersonelTableAdapter();
-            this.personelVeriTabaniDataSet2 = new Ders8_VeriTabanİSQL.PersonelVeriTabaniDataSet2();
-            this.tblPersonelBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.tbl_PersonelTableAdapter1 = new Ders8_VeriTabanİSQL.PersonelVeriTabaniDataSet2TableAdapters.Tbl_PersonelTableAdapter();
+            this.TxtDurum = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tblPersonelBindingSource1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.personelVeriTabaniDataSet2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblPersonelBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.personelVeriTabaniDataSet1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.personelVeriTabaniDataSet)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.personelVeriTabaniDataSet2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tblPersonelBindingSource1)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -117,6 +118,7 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Bekar";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // radioButton1
             // 
@@ -128,6 +130,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Evli";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // MtxtMaas
             // 
@@ -312,6 +315,7 @@
             this.BtnSil.TabIndex = 2;
             this.BtnSil.Text = "Sil";
             this.BtnSil.UseVisualStyleBackColor = true;
+            this.BtnSil.Click += new System.EventHandler(this.BtnSil_Click);
             // 
             // BtnListe
             // 
@@ -411,6 +415,16 @@
             this.personelMeslekDataGridViewTextBoxColumn.Name = "personelMeslekDataGridViewTextBoxColumn";
             this.personelMeslekDataGridViewTextBoxColumn.Width = 125;
             // 
+            // tblPersonelBindingSource1
+            // 
+            this.tblPersonelBindingSource1.DataMember = "Tbl_Personel";
+            this.tblPersonelBindingSource1.DataSource = this.personelVeriTabaniDataSet2;
+            // 
+            // personelVeriTabaniDataSet2
+            // 
+            this.personelVeriTabaniDataSet2.DataSetName = "PersonelVeriTabaniDataSet2";
+            this.personelVeriTabaniDataSet2.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
             // tblPersonelBindingSource
             // 
             this.tblPersonelBindingSource.DataMember = "Tbl_Personel";
@@ -440,19 +454,18 @@
             // 
             this.tbl_PersonelTableAdapter.ClearBeforeFill = true;
             // 
-            // personelVeriTabaniDataSet2
-            // 
-            this.personelVeriTabaniDataSet2.DataSetName = "PersonelVeriTabaniDataSet2";
-            this.personelVeriTabaniDataSet2.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // tblPersonelBindingSource1
-            // 
-            this.tblPersonelBindingSource1.DataMember = "Tbl_Personel";
-            this.tblPersonelBindingSource1.DataSource = this.personelVeriTabaniDataSet2;
-            // 
             // tbl_PersonelTableAdapter1
             // 
             this.tbl_PersonelTableAdapter1.ClearBeforeFill = true;
+            // 
+            // TxtDurum
+            // 
+            this.TxtDurum.AutoSize = true;
+            this.TxtDurum.Location = new System.Drawing.Point(793, 318);
+            this.TxtDurum.Name = "TxtDurum";
+            this.TxtDurum.Size = new System.Drawing.Size(70, 25);
+            this.TxtDurum.TabIndex = 4;
+            this.TxtDurum.Text = "label8";
             // 
             // Form1
             // 
@@ -460,6 +473,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.ClientSize = new System.Drawing.Size(985, 628);
+            this.Controls.Add(this.TxtDurum);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox3);
@@ -474,13 +488,14 @@
             this.groupBox2.ResumeLayout(false);
             this.groupBox3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tblPersonelBindingSource1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.personelVeriTabaniDataSet2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblPersonelBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.personelVeriTabaniDataSet1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.personelVeriTabaniDataSet)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.personelVeriTabaniDataSet2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tblPersonelBindingSource1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -527,6 +542,7 @@
         private PersonelVeriTabaniDataSet2 personelVeriTabaniDataSet2;
         private System.Windows.Forms.BindingSource tblPersonelBindingSource1;
         private PersonelVeriTabaniDataSet2TableAdapters.Tbl_PersonelTableAdapter tbl_PersonelTableAdapter1;
+        private System.Windows.Forms.Label TxtDurum;
     }
 }
 
