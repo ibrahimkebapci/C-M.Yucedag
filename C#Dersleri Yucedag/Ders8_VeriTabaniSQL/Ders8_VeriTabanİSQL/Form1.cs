@@ -45,40 +45,7 @@ namespace Ders8_VeriTabanİSQL
             Baglanti.Close();
             MessageBox.Show("Personel Eklendi");
         }
-        private void label7_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label8_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox5_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-
-        }
+         
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -96,17 +63,58 @@ namespace Ders8_VeriTabanİSQL
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
+            if(radioButton1.Checked)
+            {
             TxtDurum.Text = "True";
+            }
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            TxtDurum.Text = "False";
+            if (radioButton1.Checked)
+            {
+                TxtDurum.Text = "False";
+            }
         }
 
         private void BtnSil_Click(object sender, EventArgs e)
         {
             Temizle();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            int secilen = dataGridView1.SelectedCells[0].RowIndex;
+        
+            TxtId.Text = dataGridView1.Rows[secilen].Cells[0].Value.ToString();
+            TxtAd.Text = dataGridView1.Rows[secilen].Cells[1].Value.ToString();
+            TxtSoyad.Text = dataGridView1.Rows[secilen].Cells[2].Value.ToString();
+            CmbSehir.Text = dataGridView1.Rows[secilen].Cells[3].Value.ToString();
+            MtxtMaas.Text = dataGridView1.Rows[secilen].Cells[4].Value.ToString();
+            TxtDurum.Text = dataGridView1.Rows[secilen].Cells[5].Value.ToString();
+            TxtMeslek.Text = dataGridView1.Rows[secilen].Cells[6].Value.ToString();
+        }
+
+        private void TxtDurum_TextChanged(object sender, EventArgs e)
+        {
+            if(TxtDurum.Text == "True")
+            {
+                radioButton1.Checked = true;
+            }
+            if(TxtDurum.Text == "False")
+            {
+                radioButton2.Checked = true;
+            }
+        }
+
+        private void BtnGuncelle_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

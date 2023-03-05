@@ -296,6 +296,7 @@
             this.BtnGuncelle.TabIndex = 4;
             this.BtnGuncelle.Text = "Güncelle";
             this.BtnGuncelle.UseVisualStyleBackColor = true;
+            this.BtnGuncelle.Click += new System.EventHandler(this.BtnGuncelle_Click);
             // 
             // BtnKaydet
             // 
@@ -357,6 +358,8 @@
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(955, 196);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            this.dataGridView1.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellDoubleClick);
             // 
             // personelIdDataGridViewTextBoxColumn
             // 
@@ -466,6 +469,7 @@
             this.TxtDurum.Size = new System.Drawing.Size(70, 25);
             this.TxtDurum.TabIndex = 4;
             this.TxtDurum.Text = "label8";
+            this.TxtDurum.TextChanged += new System.EventHandler(this.TxtDurum_TextChanged);
             // 
             // Form1
             // 
