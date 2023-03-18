@@ -18,7 +18,6 @@ namespace Ders8_VeriTabanİSQL
             InitializeComponent();
         }
         SqlConnection Baglanti = new SqlConnection("Data Source=DESKTOP-T2496AJ\\SQLEXPRESS;Initial Catalog=PersonelVeriTabani;Integrated Security=True");
-        
         public void Temizle()
         {
             TxtId.Text = "";
@@ -114,7 +113,20 @@ namespace Ders8_VeriTabanİSQL
 
         private void BtnGuncelle_Click(object sender, EventArgs e)
         {
+            Baglanti.Open();
+            SqlCommand KomutGuncelle = new SqlCommand("Update Tbl_Personel Set PerAd=@a1,PerSoyad=@a2,PerSehir=@a3,PerMaas=@a4,PerDurum=@a5,PerMeslek=@a6 where Perid =@a7", Baglanti);
+            KomutGuncelle.Parameters.AddWithValue("@a1",TxtAd.Text);
+            KomutGuncelle.Parameters.AddWithValue("@a2",TxtSoyad.Text);
+            KomutGuncelle.Parameters.AddWithValue("@a3",CmbSehir);
+            KomutGuncelle.Parameters.AddWithValue("@a4",MtxtMaas);
+            KomutGuncelle.Parameters.AddWithValue("@a5",TxtDurum);
+            KomutGuncelle.Parameters.AddWithValue("@a6",TxtMeslek);
+            KomutGuncelle.Parameters.AddWithValue("@a7",TxtId);
+            KomutGuncelle.ExecuteNonQuery();
 
+            Baglanti.Close();
+
+            MessageBox.Show("Personel Güncellendi");
         }
     }
 }
