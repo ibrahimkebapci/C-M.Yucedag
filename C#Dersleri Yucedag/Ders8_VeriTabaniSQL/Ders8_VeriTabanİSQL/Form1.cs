@@ -128,5 +128,15 @@ namespace Ders8_VeriTabanİSQL
 
             MessageBox.Show("Personel Güncellendi");
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnIstatistik_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -162,8 +162,7 @@
             this.TxtMeslek.Name = "TxtMeslek";
             this.TxtMeslek.Size = new System.Drawing.Size(151, 30);
             this.TxtMeslek.TabIndex = 11;
-           // this.TxtMeslek.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
-            // üst bölüm yorum yapıldı
+            // 
             // TxtSoyad
             // 
             this.TxtSoyad.Location = new System.Drawing.Point(149, 134);
@@ -186,8 +185,7 @@
             this.label7.Size = new System.Drawing.Size(88, 25);
             this.label7.TabIndex = 6;
             this.label7.Text = "Meslek:";
-            //this.label7.Click += new System.EventHandler(this.label7_Click);
-            // üst bölüm yorum yapıldı
+            // 
             // label6
             // 
             this.label6.AutoSize = true;
@@ -223,8 +221,7 @@
             this.label3.Size = new System.Drawing.Size(81, 25);
             this.label3.TabIndex = 2;
             this.label3.Text = "Soyad:";
-            //this.label3.Click += new System.EventHandler(this.label3_Click);
-            // üst bölüm yorum yapıldı
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -242,8 +239,7 @@
             this.label1.Size = new System.Drawing.Size(127, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "Personel id:";
-            //this.label1.Click += new System.EventHandler(this.label1_Click);
-            // üst bölüm yorum yapıldı
+            // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.BtnGrafikler);
@@ -268,8 +264,7 @@
             this.BtnGrafikler.TabIndex = 7;
             this.BtnGrafikler.Text = "Grafikler";
             this.BtnGrafikler.UseVisualStyleBackColor = true;
-            //this.BtnGrafikler.Click += new System.EventHandler(this.button7_Click);
-            // üst bölüm yorum yapıldı
+            // 
             // BtnIstatistik
             // 
             this.BtnIstatistik.Location = new System.Drawing.Point(17, 250);
@@ -278,6 +273,7 @@
             this.BtnIstatistik.TabIndex = 6;
             this.BtnIstatistik.Text = "İstatistik";
             this.BtnIstatistik.UseVisualStyleBackColor = true;
+            this.BtnIstatistik.Click += new System.EventHandler(this.BtnIstatistik_Click);
             // 
             // BtnTemizle
             // 
@@ -447,6 +443,7 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // personelVeriTabaniDataSet
             // 
